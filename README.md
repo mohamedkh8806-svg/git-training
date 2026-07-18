@@ -17,3 +17,13 @@ Mohamed Khaled
 1. Clone the repository.
 2. Open the project in VS Code.
 3. Practice Git branching and merging.
+
+
+
+## Repository Structure
+
+```text
+git-training/
+├── README.md
+├── .gitignore
+└── CONTRIBUTING.md
