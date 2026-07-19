@@ -22,12 +22,17 @@ Mohamed Khaled
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 git-training/
 ├── README.md
 ├── .gitignore
-└── CONTRIBUTING.md
-
+├── CONTRIBUTING.md
+├── directory_summary.sh
+└── screenshots/
+    ├── Learning Git branch 1.jpeg
+    └── Learning Git branch 2.jpeg
 ```
 
 ---
