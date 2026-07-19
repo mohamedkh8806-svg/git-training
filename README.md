@@ -27,3 +27,27 @@ git-training/
 ├── README.md
 ├── .gitignore
 └── CONTRIBUTING.md
+
+```
+
+---
+
+# Week 1 Progress
+
+## ✅ Completed Deliverables
+
+- Git branching and merging
+- GitHub repository setup
+- Bash directory summary script
+- Learn Git Branching (Completed)
+- OverTheWire Bandit Levels 0–20
+
+## Learn Git Branching
+
+### Main Levels
+
+![Main Levels](screenshots/Learning%20Git%20branch%201.jpeg)
+
+### Remote Levels
+
+![Remote Levels](screenshots/Learning%20Git%20branch%202.jpeg)
