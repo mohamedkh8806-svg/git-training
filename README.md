@@ -4,7 +4,7 @@ This repository was created as part of my Telkoa Technologies Engineering Traini
 
 ## Purpose
 
-This repository is used to practice Git branching, merging, and professional Git workflows.
+i changed main to have a conflict.
 
 ## Author
 
