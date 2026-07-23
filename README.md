@@ -4,7 +4,8 @@ This repository was created as part of my Telkoa Technologies Engineering Traini
 
 ## Purpose
 
-i want to have a merge conflict.
+
+This repository is used to practice Git branching, merging, and professional Git workflows.
 
 ## Author
 
