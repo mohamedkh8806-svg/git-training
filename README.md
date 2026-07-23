@@ -20,7 +20,7 @@ Mohamed Khaled
 
 
 
-## Repository Structure
+
 
 ## Repository Structure
 
@@ -56,3 +56,11 @@ git-training/
 ### Remote Levels
 
 ![Remote Levels](screenshots/Learning%20Git%20branch%202.jpeg)
+
+## OverTheWire Bandit
+
+Completed Levels **0–20**.
+
+### Level 20 Shell
+
+![Bandit Level 20](screenshots/bandit20.png)
